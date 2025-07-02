@@ -42,4 +42,5 @@ counts = result.get_counts()
 # Output results
 print("Measurement counts:", counts)
 plot_histogram(counts)
+qc.draw('mpl')
 plt.show()
