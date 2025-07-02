@@ -31,3 +31,11 @@ pip install -r requirements.txt
 ## 🧠 Circuit Layout
 
 ![Teleportation Circuit](circuit_diagram.png)
+## 🧪 Testing
+
+This project includes basic unit tests using Python's built-in `unittest` framework.
+
+To run tests:
+
+```bash
+python test-teleportation.py
